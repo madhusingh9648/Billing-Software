@@ -1,0 +1,17 @@
+	Welcome Webcode Reatil
+
+ Bill Number : 5530
+ Customer Name: piyush
+ Phone Number: 8707786564
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		2		80
+ Daal		3		180
+ Maza		3		180
+--------------------------------------
+ Cosmetic Tax			Rs. 4.0
+ Grocery Tax			Rs. 18.0
+ Cold Drink Tax			Rs. 9.0
+ Total Bill :			 Rs. 471.0
+--------------------------------------

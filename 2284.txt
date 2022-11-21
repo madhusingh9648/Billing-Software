@@ -1,0 +1,13 @@
+	Welcome Webcode Reatil
+
+ Bill Number : 2284
+ Customer Name: madhu
+ Phone Number: 9648362635
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		12		480
+--------------------------------------
+ Cosmetic Tax			Rs. 24.0
+ Total Bill :			 Rs. 504.0
+--------------------------------------

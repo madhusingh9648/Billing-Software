@@ -1,0 +1,17 @@
+	Welcome Singh Retail
+
+ Bill Number : 3454
+ Customer Name: Raj
+ Phone Number: 9674356787
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		1		40
+ Daal		2		120
+ coke		1		60
+--------------------------------------
+ Cosmetic Tax			Rs. 2.0
+ Grocery Tax			Rs. 12.0
+ Cold Drink Tax			Rs. 3.0
+ Total Bill :			 Rs. 237.0
+--------------------------------------
